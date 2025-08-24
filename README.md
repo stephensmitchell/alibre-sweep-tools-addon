@@ -6,7 +6,7 @@ A demonstration Alibre Script-based add-on for creating sweep tools in Alibre De
 
 
 
-[Current Status](https://github.com/stephensmitchell/alibre-pipetools-addon/discussions/2?sort=new)
+[Current Status](https://github.com/stephensmitchell/alibre-sweep-tools-addon/discussions/2?sort=new)
 
 
 [Forum Thread](https://www.alibre.com/forum/index.php?threads/ai-scripting-new-tools-into-alibre.26141/)
