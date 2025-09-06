@@ -1,0 +1,10 @@
+﻿<AlibreDesignAddOn specificationVersion="2" friendlyName="Sweep Tools">
+<Author name="Stephen S. Mitchell" link="https://github.com/stephensmitchell/alibre-sweep-tools-addon"/>
+   <Copyright>Copyright (c) 2025 Stephen S. Mitchell/Konstantinos Froudarakis</Copyright>
+   <DLL type="Managed" loadedWhen="Startup" location="SweepTools.dll"/>
+   <Icon location="logo.ico"/> 
+   <Menu text="Sweep Tools"/>
+   <Description>Sweep Tools</Description> 
+   <Workspace type="Always"/>
+   <Property name="Identifier" value="SweepTools"/>
+</AlibreDesignAddOn>
