@@ -5,6 +5,8 @@
 
 Proof-of-concept Alibre Design add-on that uses Alibre Script/AlibreX (IronPython 2 or 3) as commands. Instead of writing in a .NET language (C# or VB), you write in IronPython. A .NET language is only used for compiling the add-on to a DLL.
 
+[CURRENT STATUS](https://github.com/stephensmitchell/alibre-sweep-tools-addon/discussions/2?sort=new)
+
 ## Purpose
 
 To evaluate the overall process and steps necessary to create Alibre Design add-ons that use Alibre Script/AlibreX (IronPython 2 or 3) as commands. 
@@ -53,5 +55,5 @@ MIT — see license.
 
 [ALIBRE FORUM THREAD](https://www.alibre.com/forum/index.php?threads/ai-scripting-new-tools-into-alibre.26141/)
 
-[CURRENT STATUS](https://github.com/stephensmitchell/alibre-sweep-tools-addon/discussions/2?sort=new)
+
 
